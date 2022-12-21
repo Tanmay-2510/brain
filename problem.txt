@@ -1,0 +1,8 @@
+ problem
+mobile cleaner
+in our daily problem we have our phone storage was going out limit 
+
+solution
+we want to make an senser to app which we can delete all waste pic,vidios and all
+ problem and solution
+album maker we can create an album maker which can save all pics which can fix all photos those are conneted
